@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Chaurasiya</h1>
 <h3 align="center">Web Developer | problem solver | Interested in learning new technologies and how would they bring change in life</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshuchaurasiya1234&label=Profile%20views&color=0e75b6&style=flat" alt="himanshuchaurasiya1234" /> </p>
 
 
 
